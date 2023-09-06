@@ -1,0 +1,6 @@
+export const PUBLIC_PROJECTID ='64f6adc42b561cc5b3df'
+export const PUBLIC_DBKEY ='64f6b4537c577d1c6903'
+export const PUBLIC_COLLECTION_ID_PRODUCTDB ='64f6c0aee1c185505848'
+export const PUBLIC_COLLECTION_ID_COMPANIES ='64f72449f10c9f41a655'
+export const PUBLIC_PRODUCT_IMAGE_BUCKET ='64f6cb4a589e634f2619'
+export const PUBLIC_APPURL ='https://cloud.appwrite.io/v1'
